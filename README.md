@@ -8,7 +8,7 @@
   <p>
     <a href="https://miguelhgalvao.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-Visitar-123B63?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" /></a>
     <a href="https://www.linkedin.com/in/miguelhenriquegalvao/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <img src="https://img.shields.io/badge/Bloco%20Paralelo-Tecnologia%20%26%20Inovação-181717?style=for-the-badge&logo=github&logoColor=white" alt="Bloco Paralelo" />
+    <a href="https://github.com/BlocoParalelo"><img src="https://img.shields.io/badge/Bloco%20Paralelo-Tecnologia%20%26%20Inovação-181717?style=for-the-badge&logo=github&logoColor=white" alt="Bloco Paralelo" /></a>
   </p>
 
   <p>
@@ -155,7 +155,7 @@ Acredito no aprendizado contínuo, na experimentação e na capacidade de transf
 - **Portfólio:** [miguelhgalvao.github.io/portfolio](https://miguelhgalvao.github.io/portfolio/)
 - **LinkedIn:** [linkedin.com/in/miguelhenriquegalvao](https://www.linkedin.com/in/miguelhenriquegalvao/)
 - **GitHub:** [@MiguelHGalvao](https://github.com/MiguelHGalvao)
-- **Bloco Paralelo:** iniciativa de tecnologia, economia e inovação.
+- **Bloco Paralelo:** [github.com/BlocoParalelo](https://github.com/BlocoParalelo) — iniciativa de tecnologia, economia e inovação.
 
 ---
 
@@ -308,7 +308,7 @@ I value continuous learning, experimentation, and turning problems into practica
 - **Portfolio:** [miguelhgalvao.github.io/portfolio](https://miguelhgalvao.github.io/portfolio/)
 - **LinkedIn:** [linkedin.com/in/miguelhenriquegalvao](https://www.linkedin.com/in/miguelhenriquegalvao/)
 - **GitHub:** [@MiguelHGalvao](https://github.com/MiguelHGalvao)
-- **Bloco Paralelo:** a technology, economics, and innovation initiative.
+- **Bloco Paralelo:** [github.com/BlocoParalelo](https://github.com/BlocoParalelo) — a technology, economics, and innovation initiative.
 
 ---
 
