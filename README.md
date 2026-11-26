@@ -8,7 +8,7 @@
   <p>
     <a href="https://miguelhgalvao.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-Visitar-123B63?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" /></a>
     <a href="https://www.linkedin.com/in/miguelhenriquegalvao/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/GalvaoLabs"><img src="https://img.shields.io/badge/Galvão%20Labs-Explorar-181717?style=for-the-badge&logo=github&logoColor=white" alt="Galvão Labs" /></a>
+    <img src="https://img.shields.io/badge/Bloco%20Paralelo-Tecnologia%20%26%20Inovação-181717?style=for-the-badge&logo=github&logoColor=white" alt="Bloco Paralelo" />
   </p>
 
   <p>
@@ -38,19 +38,19 @@ Busco desenvolver uma visão que vá além da implementação técnica: compreen
 ## Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux&perline=8" alt="Python, JavaScript, HTML, CSS, Git, GitHub, VS Code e Linux" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&perline=4" alt="Python, Git, GitHub e VS Code" />
 </div>
 
-| Área | Tecnologias e conhecimentos |
+| Área | Experiência e ferramentas |
 |---|---|
-| Programação | Python, JavaScript, HTML5 e CSS3 |
-| Dados e BI | Pandas, Matplotlib, Power BI, DAX e Excel |
-| IA e aplicações | IA generativa, LLMs, integração com APIs e engenharia de prompts |
-| Aplicações | Streamlit, consumo de APIs, JSON e aplicações web |
-| Ferramentas | Git, GitHub, VS Code e linha de comando |
-| Dados relacionais | SQL e fundamentos de modelagem de dados |
+| **Programação** | Python — principal linguagem de estudo e desenvolvimento dos meus projetos. |
+| **Desenvolvimento web** | HTML, CSS e JavaScript — já utilizados em projetos, geralmente com apoio de ferramentas de IA; ainda estou desenvolvendo autonomia nessas tecnologias. |
+| **Dados e análise** | Pandas, NumPy e Matplotlib; estudos e projetos com Power BI, DAX e Excel. |
+| **IA generativa** | Uso de ferramentas de IA e integração de modelos de linguagem por APIs em projetos. |
+| **Aplicações e backend** | Streamlit, Flask, consumo de APIs, JSON e SQLite, conforme os projetos. |
+| **Ferramentas de desenvolvimento** | Git, GitHub e Visual Studio Code. |
 
-*As tecnologias representam ferramentas e conceitos estudados ou aplicados em projetos pessoais e acadêmicos; não indicam, por si só, experiência profissional em todas essas áreas.*
+**Nota sobre proficiência:** esta seção diferencia minha principal base técnica das tecnologias com as quais tive contato em projetos. Ter utilizado uma tecnologia com assistência de IA não significa domínio ou autonomia para desenvolver com ela sem apoio.
 
 ## Projetos em destaque
 
@@ -136,14 +136,13 @@ Outros estudos e certificações incluem:
 - Segurança Cibernética e Privacidade e Proteção de Dados (LGPD) — SENAI.
 - Informática Básica — Prefeitura de Santana de Parnaíba.
 
-## Galvão Labs
+## Bloco Paralelo
 
-A **[Galvão Labs](https://github.com/GalvaoLabs)** é uma organização criada por mim para reunir experimentos, projetos e iniciativas próprias na área de tecnologia.
+**Bloco Paralelo** é a iniciativa que estou desenvolvendo para conectar tecnologia, economia e inovação. A proposta é transformar conhecimento, dados e ferramentas digitais em soluções, produtos e recursos de inteligência que possam gerar valor.
 
-Sua proposta inicial é atuar como um estúdio independente, explorando o desenvolvimento de software, inteligência artificial e produtos digitais. A ideia é evoluir de projetos e protótipos para soluções próprias, desenvolvidas com foco em utilidade, consistência e aprendizado.
+A iniciativa parte do desenvolvimento de software e da inteligência artificial, mantendo também espaço para análise de dados, economia e compreensão de negócios. Seu posicionamento está em construção, com foco em evoluir de experimentos e projetos para soluções próprias.
 
-- [GitHub — Galvão Labs](https://github.com/GalvaoLabs)
-- [Instagram — @galvaolabs](https://www.instagram.com/galvaolabs)
+*Ideias que viram impacto.*
 
 ## Objetivo
 
@@ -156,7 +155,7 @@ Acredito no aprendizado contínuo, na experimentação e na capacidade de transf
 - **Portfólio:** [miguelhgalvao.github.io/portfolio](https://miguelhgalvao.github.io/portfolio/)
 - **LinkedIn:** [linkedin.com/in/miguelhenriquegalvao](https://www.linkedin.com/in/miguelhenriquegalvao/)
 - **GitHub:** [@MiguelHGalvao](https://github.com/MiguelHGalvao)
-- **Galvão Labs:** [@GalvaoLabs](https://github.com/GalvaoLabs)
+- **Bloco Paralelo:** iniciativa de tecnologia, economia e inovação.
 
 ---
 
@@ -195,16 +194,16 @@ I aim to look beyond implementation: understand the problem, structure a solutio
 
 ## Technologies and tools
 
-| Area | Technologies and topics |
+| Area | Experience and tools |
 |---|---|
-| Programming | Python, JavaScript, HTML5, and CSS3 |
-| Data and BI | Pandas, Matplotlib, Power BI, DAX, and Excel |
-| AI and applications | Generative AI, LLMs, API integration, and prompt engineering |
-| Applications | Streamlit, API consumption, JSON, and web applications |
-| Tools | Git, GitHub, VS Code, and command line |
-| Relational data | SQL and database modeling fundamentals |
+| **Programming** | Python — my main language for learning and building projects. |
+| **Web development** | HTML, CSS, and JavaScript — used in projects, often with AI assistance; I am still building independence with these technologies. |
+| **Data and analysis** | Pandas, NumPy, and Matplotlib; studies and projects involving Power BI, DAX, and Excel. |
+| **Generative AI** | Use of AI tools and API integrations with language models in projects. |
+| **Applications and backend** | Streamlit, Flask, API consumption, JSON, and SQLite, depending on the project. |
+| **Development tools** | Git, GitHub, and Visual Studio Code. |
 
-*These technologies represent tools and concepts studied or applied in personal and academic projects; they do not, by themselves, imply professional experience in every area.*
+**Proficiency note:** this section distinguishes my main technical foundation from technologies I have explored through projects. Using a technology with AI assistance does not necessarily mean I can develop with it independently.
 
 ## Featured projects
 
@@ -290,14 +289,13 @@ Additional courses and certifications include:
 - Cybersecurity and Data Privacy (LGPD) — SENAI.
 - Basic Computer Skills — Santana de Parnaíba City Hall.
 
-## Galvão Labs
+## Bloco Paralelo
 
-**[Galvão Labs](https://github.com/GalvaoLabs)** is an organization I created to bring together experiments, projects, and independent technology initiatives.
+**Bloco Paralelo** is an initiative I am building to connect technology, economics, and innovation. Its purpose is to turn knowledge, data, and digital tools into solutions, products, and intelligence resources that can create value.
 
-Its initial direction is to operate as an independent technology studio, exploring software development, artificial intelligence, and digital products. The goal is to grow from projects and prototypes into useful, consistent products of its own.
+The initiative starts with software development and artificial intelligence, while also making room for data analysis, economics, and business understanding. Its positioning is still evolving, with the goal of growing from experiments and projects into its own solutions.
 
-- [GitHub — Galvão Labs](https://github.com/GalvaoLabs)
-- [Instagram — @galvaolabs](https://www.instagram.com/galvaolabs)
+*Ideas that turn into impact.*
 
 ## Goals
 
@@ -310,7 +308,7 @@ I value continuous learning, experimentation, and turning problems into practica
 - **Portfolio:** [miguelhgalvao.github.io/portfolio](https://miguelhgalvao.github.io/portfolio/)
 - **LinkedIn:** [linkedin.com/in/miguelhenriquegalvao](https://www.linkedin.com/in/miguelhenriquegalvao/)
 - **GitHub:** [@MiguelHGalvao](https://github.com/MiguelHGalvao)
-- **Galvão Labs:** [@GalvaoLabs](https://github.com/GalvaoLabs)
+- **Bloco Paralelo:** a technology, economics, and innovation initiative.
 
 ---
 
