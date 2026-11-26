@@ -1,328 +1,319 @@
+<!-- ======================== PORTUGUÊS ======================== -->
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:38BDF8&text=Miguel%20Henrique&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Cabeçalho com o nome Miguel Henrique"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B1220,55:123B63,100:22A6B3&text=Miguel%20Henrique&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Miguel Henrique — tecnologia, IA e negócios" />
 
-  <br>
+  <h3>Software Development · Artificial Intelligence · Data & Business</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=780&lines=Desenvolvimento+de+software+com+Python;Intelig%C3%AAncia+Artificial+e+inova%C3%A7%C3%A3o;Tecnologia%2C+economia+e+empreendedorismo"/>
+  <p>
+    <a href="https://miguelhgalvao.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-Visitar-123B63?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" /></a>
+    <a href="https://www.linkedin.com/in/miguelhenriquegalvao/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/GalvaoLabs"><img src="https://img.shields.io/badge/Galvão%20Labs-Explorar-181717?style=for-the-badge&logo=github&logoColor=white" alt="Galvão Labs" /></a>
+  </p>
 
-  <br><br>
+  <p>
+    <a href="#-sobre-mim">Português</a> ·
+    <a href="#about-me">English</a>
+  </p>
 
-  <img src="https://img.shields.io/badge/Python-Formação%20intermediária-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Formação intermediária em Python"/>
-  <img src="https://img.shields.io/badge/Inteligência%20Artificial-Formação%20SENAI-38BDF8?style=for-the-badge" alt="Formação em inteligência artificial pelo SENAI"/>
-  <img src="https://img.shields.io/badge/Foco-Tecnologia%20e%20negócios-111827?style=for-the-badge" alt="Foco em tecnologia e negócios"/>
-  <img src="https://img.shields.io/badge/GitHub-MiguelHGalvao-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub MiguelHGalvao"/>
-
-  <br><br>
-
-  <a href="https://miguelhgalvao.github.io/">
-    <img src="https://img.shields.io/badge/Portfólio-Acessar-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Acessar meu portfólio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/miguelhenriquegalvao/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn"/>
-  </a>
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=MiguelHGalvao&label=Visualizações%20do%20perfil&color=38BDF8&style=flat" alt="Visualizações do perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=MiguelHGalvao&label=Visualizações%20do%20perfil&color=22A6B3&style=flat" alt="Visualizações do perfil" />
 </div>
 
 ---
-
-<div align="right">
-  <sub>🇧🇷 Português — <a href="#-about-me-english">English version ↓</a></sub>
-</div>
-
-> Gosto de entender como as coisas funcionam e de transformar ideias em projetos. Meu caminho reúne programação, inteligência artificial, economia e empreendedorismo — áreas que quero explorar para criar soluções úteis e construir algo próprio.
 
 ## Sobre mim
 
-Sou Miguel Henrique, estudante e desenvolvedor em formação. Concluí cursos de programação em Python, incluindo Desenvolvimento Intermediário com Python, e venho aplicando o que aprendo em projetos pessoais.
+Sou estudante e desenvolvedor em formação, interessado em conectar **tecnologia, inteligência artificial e visão de negócios** para transformar ideias em soluções digitais.
 
-Meu interesse por tecnologia vai além do código. Também quero compreender como produtos são pensados, como organizações crescem e como tecnologia e negócios podem trabalhar juntos. Ainda estou construindo minha trajetória e trato cada projeto como uma oportunidade de aprender, testar ideias e melhorar.
+Minha base técnica foi construída principalmente na Fábrica de Programadores do **SENAI SP**, com estudos e projetos envolvendo desenvolvimento de software, Python, lógica de programação, dados e resolução de problemas.
 
-```python
-nome = "Miguel Henrique"
-base_atual = "Python"
-interesses = [
-    "Desenvolvimento de software",
-    "Inteligência artificial",
-    "Economia e negócios",
-    "Empreendedorismo"
-]
+Tenho interesse especial em três frentes:
 
-objetivo = "Transformar ideias em projetos e soluções úteis"
+- **Desenvolvimento de software:** aplicações, automações, integração de APIs e construção de produtos digitais.
+- **Inteligência artificial e dados:** aplicações com LLMs, análise de dados, Business Intelligence e exploração de ferramentas de IA.
+- **Tecnologia e negócios:** produtos, processos, finanças, empreendedorismo e uso estratégico da tecnologia.
 
-print(f"{nome}: aprendendo, criando e evoluindo.")
-```
+Busco desenvolver uma visão que vá além da implementação técnica: compreender o problema, estruturar uma solução e avaliar como ela pode gerar valor.
 
-## O que estou estudando e desenvolvendo
+## Tecnologias e ferramentas
 
-- **Python:** programação, lógica, desenvolvimento de software e conteúdos intermediários.
-- **Inteligência artificial:** fundamentos de IA, IA generativa, aprendizado de máquina, redes neurais e ética.
-- **Tecnologia:** segurança cibernética, privacidade e proteção de dados, blockchain e data centers.
-- **Negócios e economia:** empreendedorismo, finanças pessoais e análise de ideias e produtos.
-- **Projetos:** aplicação prática dos estudos e exploração de novas possibilidades.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux&perline=8" alt="Python, JavaScript, HTML, CSS, Git, GitHub, VS Code e Linux" />
+</div>
 
-As formações apresentam temas e competências estudados. Elas não significam, por si só, experiência profissional em todas essas áreas.
+| Área | Tecnologias e conhecimentos |
+|---|---|
+| Programação | Python, JavaScript, HTML5 e CSS3 |
+| Dados e BI | Pandas, Matplotlib, Power BI, DAX e Excel |
+| IA e aplicações | IA generativa, LLMs, integração com APIs e engenharia de prompts |
+| Aplicações | Streamlit, consumo de APIs, JSON e aplicações web |
+| Ferramentas | Git, GitHub, VS Code e linha de comando |
+| Dados relacionais | SQL e fundamentos de modelagem de dados |
 
-## Projetos
+*As tecnologias representam ferramentas e conceitos estudados ou aplicados em projetos pessoais e acadêmicos; não indicam, por si só, experiência profissional em todas essas áreas.*
 
-Gosto de aprender criando. Os projetos abaixo representam temas que venho explorando no meu portfólio:
+## Projetos em destaque
 
-- **CodeForge AI Coder** — exploração de desenvolvimento de software com apoio de inteligência artificial.
-- **Startup Tycoon** — projeto ligado à criação e à gestão de negócios.
-- **Financial Analysis Platform** — projeto relacionado a informações e análises financeiras.
-- **Oceanic Clarity** — projeto associado à exploração de temas oceânicos.
-- **Musical Dashboard** — projeto de apresentação e exploração de dados musicais.
+Seleciono projetos que representam diferentes dimensões do meu desenvolvimento: aplicações com IA, análise de dados, software e experiências interativas.
 
-Você pode conhecer os projetos e acompanhar minha evolução pelo [portfólio](https://miguelhgalvao.github.io/) e pelo [GitHub](https://github.com/MiguelHGalvao).
+### 1. CodeForge AI
+**Python · Streamlit · Groq API · LLMs**
 
-## Galvão Labs
+Assistente de programação com IA generativa, voltado a apoiar o aprendizado de Python por meio de explicações, exemplos de código e interação em formato de chat.
 
-A **Galvão Labs é uma organização criada por mim**. Ela representa minha vontade de reunir ideias e desenvolver projetos próprios ligados à tecnologia.
+- Integração com modelo de linguagem via API.
+- Gerenciamento de conversas com estado de sessão.
+- Configuração de chave de API e variáveis de ambiente.
 
-Meu objetivo é fazer a Galvão Labs crescer com consistência: começar por projetos e experimentos, aprender com o que funciona e, no futuro, desenvolver produtos que conectem software, inteligência artificial e visão de negócios. Quero construir uma organização com identidade própria e soluções que tenham utilidade no mundo real.
+[Repositório](https://github.com/MiguelHGalvao/codeforge_ai)
 
-A Galvão Labs ainda faz parte de uma trajetória em construção. Para mim, ela também é um compromisso com a iniciativa, o aprendizado e a criação — não apenas um nome ou uma página no GitHub.
+### 2. Finance Dashboard
+**Python · Streamlit · Plotly · SQLite/PostgreSQL**
 
-- [Galvão Labs no GitHub](https://github.com/GalvaoLabs)
-- [Instagram da Galvão Labs](https://www.instagram.com/galvaolabs)
+Plataforma de análise financeira com recursos para acompanhar carteira, explorar indicadores e estudar ativos do mercado brasileiro.
 
-## Como gosto de trabalhar
+- Ferramentas de análise e valuation.
+- Simulação de aportes e acompanhamento de carteira.
+- Organização entre interface, regras de negócio e provedores de dados.
+- Relatórios com apoio de IA.
 
-Procuro aprender com curiosidade e consistência, organizar as ideias antes de avançar e transformar o estudo em prática. Também gosto de olhar para o propósito de um projeto: que problema ele tenta resolver, para quem pode ser útil e como pode evoluir.
+Projeto de caráter educacional. Não constitui recomendação de investimento.
 
-Entre os pontos que quero desenvolver continuamente estão:
+[Repositório](https://github.com/MiguelHGalvao/finance-dashbord)
 
-- Organização e planejamento.
-- Iniciativa para tirar ideias do papel.
-- Persistência diante de problemas.
-- Aprendizado contínuo e abertura a feedback.
-- Visão empreendedora e atenção ao impacto das soluções.
+### 3. CIARTEC 2026
+**HTML · CSS · JavaScript · JSON · Python (análise de dados)**
 
-## Objetivos
+Experiência web educativa desenvolvida para um projeto acadêmico, com conteúdo interativo sobre a Oceania e foco na Nova Zelândia.
 
-Quero construir uma trajetória que una tecnologia, desenvolvimento de software, inteligência artificial e negócios. No campo acadêmico, tenho interesse em áreas de tecnologia e ciência e sigo explorando qual formação combina melhor com meus objetivos.
+- Organização de conteúdo em arquivos JSON.
+- Interface com navegação, quiz, mapa e simulação.
+- Análise e preparação de dados com Python, Pandas e Matplotlib.
 
-No campo profissional, quero participar da criação de projetos e produtos, assumir responsabilidades maiores com o tempo e desenvolver a Galvão Labs. Meu objetivo de longo prazo é criar soluções e negócios de tecnologia com utilidade e potencial de crescimento.
+[Repositório](https://github.com/MiguelHGalvao/projeto-ciartec-2026)
+
+### 4. Startup Tycoon
+**Python · Pygame · Programação orientada a objetos**
+
+Jogo de simulação e gestão empresarial no qual o jogador toma decisões para desenvolver uma startup, administrar recursos e expandir o negócio.
+
+- Sistemas de gestão, economia e tomada de decisão.
+- Interfaces de dashboard e escritório.
+- Suporte a múltiplos idiomas.
+
+[Repositório](https://github.com/MiguelHGalvao/startup-tycoon)
+
+### 5. Chatte
+**Python · Streamlit · JSON**
+
+Aplicação de comunicação em formato de chat, criada para explorar interfaces conversacionais, gerenciamento de sessões e persistência local de mensagens.
+
+- Identificação de usuários e envio de mensagens.
+- Atualização periódica do histórico.
+- Persistência de dados em arquivo JSON.
+
+[Repositório](https://github.com/MiguelHGalvao/chatte)
+
+<p align="center">
+  <a href="https://miguelhgalvao.github.io/portfolio/"><strong>Ver portfólio completo e demonstrações →</strong></a>
+</p>
 
 ## Formação e certificações
 
-<details>
-  <summary><strong>Ver cursos e certificações</strong></summary>
+**Fábrica de Programadores — SENAI SP**  
+Formação concluída com foco em programação, desenvolvimento de software, lógica, resolução de problemas e projetos práticos.
 
-<br>
+Outros estudos e certificações incluem:
 
-| Curso ou certificação | Instituição | Emissão | Código da credencial |
-|---|---|---|---|
-| Desenvolvimento Intermediário com Python | SENAI São Paulo | Out. 2026 | `12726149053/15876164` |
-| Programação em Python | SENAI São Paulo | Jun. 2026 | `11026158580/15754801` |
-| Desvendando a Blockchain | SENAI | Nov. 2026 | `00035013/8428859` |
-| Programação em Inteligência Artificial Generativa | SENAI | Ago. 2026 | `13526237837/15929003` |
-| Fluência – Fundamentos da Inteligência Artificial | SENAI São Paulo | Jun. 2026 | `00048599/8428859` |
-| Ética na Inteligência Artificial | SENAI São Paulo | Jun. 2026 | `00042136/8428859` |
-| Informática Básica | Prefeitura de Santana de Parnaíba | Dez. 2025 | — |
-| Excel Básico | SENAI São Paulo | Out. 2026 | `00035433/8428859` |
-| Competência Transversal – Finanças Pessoais | SENAI | Nov. 2026 | `00034817/8428859` |
-| Desvendando Data Centers | SENAI São Paulo | Jul. 2026 | `00048624/8428859` |
-| Por Dentro da Segurança Cibernética | SENAI São Paulo | Out. 2026 | `00038560/8428859` |
-| Privacidade e Proteção de Dados (LGPD) | SENAI São Paulo | Jul. 2026 | `00035549/8428859` |
-| Comportamento Empreendedor | SENAI São Paulo | Nov. 2026 | `00040024/8428859` |
-| Competência Transversal – Lógica de Programação | SENAI | Nov. 2026 | `00035915/8428859` |
-
-</details>
-
-## Ferramentas
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,github,git&perline=4" alt="Python, VS Code, GitHub e Git"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MiguelHGalvao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&cache_seconds=1800" alt="Estatísticas do GitHub"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHGalvao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&cache_seconds=1800" alt="Linguagens mais usadas"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=MiguelHGalvao&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Sequência de contribuições no GitHub"/>
-</div>
-
----
-
-## Mentalidade
-
-```python
-ideia = "algo que quero construir"
-
-while aprendendo:
-    estudar()
-    experimentar(ideia)
-    observar_resultados()
-    melhorar()
-```
-
-> “Só podemos enxergar uma pequena distância à frente, mas podemos ver que há muito a ser feito.” — Alan Turing
-
----
-
-## Redes sociais
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/miguelhenriquegalvao/">
-    <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/MiguelHGalvao">
-    <img src="https://img.shields.io/badge/GitHub-MiguelHGalvao-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.instagram.com/galvaolabs">
-    <img src="https://img.shields.io/badge/Instagram-Galvão%20Labs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram da Galvão Labs"/>
-  </a>
-</div>
-
-<br>
-
----
-
-<a name="-about-me-english"></a>
-<div align="right">
-  <sub>🇺🇸 English — <a href="#-sobre-mim">back to Portuguese ↑</a></sub>
-</div>
-
-## About Me
-
-I'm Miguel Henrique, a student and aspiring software developer. I completed Python programming courses, including an intermediate development course, and I use personal projects to put what I learn into practice.
-
-My interests go beyond code. I also want to understand how products are designed, how organizations grow, and how technology and business can work together. I'm still shaping my path, and I see each project as a chance to learn, test ideas, and improve.
-
-```python
-name = "Miguel Henrique"
-current_focus = "Python"
-interests = [
-    "Software development",
-    "Artificial intelligence",
-    "Economics and business",
-    "Entrepreneurship"
-]
-
-goal = "Turn ideas into useful projects and solutions"
-
-print(f"{name}: learning, building, and improving.")
-```
-
-## What I'm learning and building
-
-- **Python:** programming, logic, software development, and intermediate topics.
-- **Artificial intelligence:** AI fundamentals, generative AI, machine learning, neural networks, and ethics.
-- **Technology:** cybersecurity, data privacy, blockchain, and data centers.
-- **Business and economics:** entrepreneurship, personal finance, and product ideas.
-- **Projects:** applying what I study and exploring new possibilities.
-
-These courses cover topics and competencies I have studied. They do not, by themselves, represent professional experience in every area.
-
-## Projects
-
-I enjoy learning by building. These projects represent topics I'm exploring in my portfolio:
-
-- **CodeForge AI Coder** — exploring software development with AI assistance.
-- **Startup Tycoon** — a project related to creating and managing businesses.
-- **Financial Analysis Platform** — a project related to financial information and analysis.
-- **Oceanic Clarity** — a project exploring ocean-related topics.
-- **Musical Dashboard** — a project for presenting and exploring music data.
-
-Explore my work through my [portfolio](https://miguelhgalvao.github.io/) and [GitHub profile](https://github.com/MiguelHGalvao).
+- Desenvolvimento Intermediário com Python — SENAI SP.
+- Programação em Python — SENAI SP.
+- Programação em Inteligência Artificial Generativa — SENAI.
+- Fundamentos e Ética em Inteligência Artificial — SENAI.
+- Power BI — SENAI SP.
+- Excel Básico — SENAI SP.
+- Finanças Pessoais — SENAI.
+- Blockchain e Data Centers — SENAI.
+- Segurança Cibernética e Privacidade e Proteção de Dados (LGPD) — SENAI.
+- Informática Básica — Prefeitura de Santana de Parnaíba.
 
 ## Galvão Labs
 
-**Galvão Labs is an organization I created** to bring together ideas and develop technology projects of my own.
+A **[Galvão Labs](https://github.com/GalvaoLabs)** é uma organização criada por mim para reunir experimentos, projetos e iniciativas próprias na área de tecnologia.
 
-My goal is to grow Galvão Labs steadily: start with projects and experiments, learn from what works, and eventually build products that connect software, artificial intelligence, and business thinking. I want to create an organization with its own identity and solutions that are useful in the real world.
+Sua proposta inicial é atuar como um estúdio independente, explorando o desenvolvimento de software, inteligência artificial e produtos digitais. A ideia é evoluir de projetos e protótipos para soluções próprias, desenvolvidas com foco em utilidade, consistência e aprendizado.
 
-Galvão Labs is still part of a journey in progress. To me, it also represents initiative, learning, and building — not just a name or a GitHub page.
+- [GitHub — Galvão Labs](https://github.com/GalvaoLabs)
+- [Instagram — @galvaolabs](https://www.instagram.com/galvaolabs)
 
-- [Galvão Labs on GitHub](https://github.com/GalvaoLabs)
-- [Galvão Labs on Instagram](https://www.instagram.com/galvaolabs)
+## Objetivo
 
-## How I like to work
+Quero construir uma trajetória que conecte conhecimento técnico e visão de negócios. Tenho interesse em desenvolver produtos digitais, compreender como organizações e mercados funcionam e explorar como a tecnologia pode melhorar processos e apoiar decisões.
 
-I try to learn with curiosity and consistency, organize ideas before moving forward, and turn study into practice. I also like to consider a project's purpose: what problem it addresses, who it may help, and how it can grow.
+Acredito no aprendizado contínuo, na experimentação e na capacidade de transformar problemas em projetos concretos.
 
-Some qualities I keep developing:
+## Contato
 
-- Organization and planning.
-- Initiative to bring ideas to life.
-- Persistence when facing problems.
-- Continuous learning and openness to feedback.
-- An entrepreneurial perspective and attention to a solution's impact.
+- **Portfólio:** [miguelhgalvao.github.io/portfolio](https://miguelhgalvao.github.io/portfolio/)
+- **LinkedIn:** [linkedin.com/in/miguelhenriquegalvao](https://www.linkedin.com/in/miguelhenriquegalvao/)
+- **GitHub:** [@MiguelHGalvao](https://github.com/MiguelHGalvao)
+- **Galvão Labs:** [@GalvaoLabs](https://github.com/GalvaoLabs)
 
-## Goals
+---
 
-I want to build a path that brings together technology, software development, artificial intelligence, and business. Academically, I'm interested in technology and science, and I'm still exploring which program best fits my goals.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelHGalvao&show_icons=true&theme=transparent&hide_border=true&title_color=22A6B3&icon_color=22A6B3&rank_icon=github" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHGalvao&layout=compact&theme=transparent&hide_border=true&title_color=22A6B3" height="165" alt="Linguagens mais utilizadas" />
+</div>
 
-Professionally, I want to help create projects and products, take on greater responsibilities over time, and develop Galvão Labs. My long-term goal is to build useful technology solutions and businesses with room to grow.
+<div align="center">
+  <sub>Construindo, aprendendo e evoluindo — um projeto de cada vez.</sub>
+</div>
+
+---
+
+<!-- ======================== ENGLISH ======================== -->
+
+<a id="about-me"></a>
+
+<div align="right">
+  <sub>🇺🇸 English version · <a href="#-sobre-mim">Back to Portuguese ↑</a></sub>
+</div>
+
+## About me
+
+I'm a student and aspiring software developer interested in connecting **technology, artificial intelligence, and business thinking** to turn ideas into digital solutions.
+
+I built my technical foundation mainly through the **SENAI SP Fábrica de Programadores** program, studying software development, Python, programming logic, data, and problem-solving through practical projects.
+
+My main areas of interest are:
+
+- **Software development:** applications, automation, API integration, and digital products.
+- **Artificial intelligence and data:** LLM-powered applications, data analysis, Business Intelligence, and AI tools.
+- **Technology and business:** products, processes, finance, entrepreneurship, and the strategic use of technology.
+
+I aim to look beyond implementation: understand the problem, structure a solution, and consider how it can create value.
+
+## Technologies and tools
+
+| Area | Technologies and topics |
+|---|---|
+| Programming | Python, JavaScript, HTML5, and CSS3 |
+| Data and BI | Pandas, Matplotlib, Power BI, DAX, and Excel |
+| AI and applications | Generative AI, LLMs, API integration, and prompt engineering |
+| Applications | Streamlit, API consumption, JSON, and web applications |
+| Tools | Git, GitHub, VS Code, and command line |
+| Relational data | SQL and database modeling fundamentals |
+
+*These technologies represent tools and concepts studied or applied in personal and academic projects; they do not, by themselves, imply professional experience in every area.*
+
+## Featured projects
+
+A selection of projects that represents different aspects of my development: AI-powered applications, data analysis, software, and interactive experiences.
+
+### 1. CodeForge AI
+**Python · Streamlit · Groq API · LLMs**
+
+An AI-powered programming assistant designed to support Python learning through explanations, code examples, and a chat-based interface.
+
+- Language model integration through an API.
+- Conversation state management.
+- API key and environment variable configuration.
+
+[Repository](https://github.com/MiguelHGalvao/codeforge_ai)
+
+### 2. Finance Dashboard
+**Python · Streamlit · Plotly · SQLite/PostgreSQL**
+
+A financial analysis platform with tools to monitor a portfolio, explore indicators, and study Brazilian market assets.
+
+- Analysis and valuation tools.
+- Contribution simulations and portfolio tracking.
+- Separation of interface, business logic, and data providers.
+- AI-assisted reports.
+
+Educational project. It does not provide investment advice.
+
+[Repository](https://github.com/MiguelHGalvao/finance-dashbord)
+
+### 3. CIARTEC 2026
+**HTML · CSS · JavaScript · JSON · Python (data analysis)**
+
+An educational web experience developed for an academic project, featuring interactive content about Oceania, with a focus on New Zealand.
+
+- Content organized in JSON files.
+- Interactive navigation, quiz, map, and simulation.
+- Data analysis and preparation with Python, Pandas, and Matplotlib.
+
+[Repository](https://github.com/MiguelHGalvao/projeto-ciartec-2026)
+
+### 4. Startup Tycoon
+**Python · Pygame · Object-Oriented Programming**
+
+A business management simulation game where players make decisions to develop a startup, manage resources, and grow the company.
+
+- Management, economy, and decision-making systems.
+- Dashboard and animated office interfaces.
+- Multiple language support.
+
+[Repository](https://github.com/MiguelHGalvao/startup-tycoon)
+
+### 5. Chatte
+**Python · Streamlit · JSON**
+
+A chat application built to explore conversational interfaces, session management, and local message persistence.
+
+- User identification and message submission.
+- Periodic chat history updates.
+- JSON file-based data persistence.
+
+[Repository](https://github.com/MiguelHGalvao/chatte)
+
+<p align="center">
+  <a href="https://miguelhgalvao.github.io/portfolio/"><strong>Explore my full portfolio and project demos →</strong></a>
+</p>
 
 ## Education and certifications
 
-<details>
-  <summary><strong>View courses and certifications</strong></summary>
+**Fábrica de Programadores — SENAI SP**  
+Completed training focused on programming, software development, logic, problem-solving, and practical projects.
 
-<br>
+Additional courses and certifications include:
 
-| Course or certification | Institution | Issued | Credential ID |
-|---|---|---|---|
-| Desenvolvimento Intermediário com Python | SENAI São Paulo | Oct. 2026 | `12726149053/15876164` |
-| Programação em Python | SENAI São Paulo | Jun. 2026 | `11026158580/15754801` |
-| Desvendando a Blockchain | SENAI | Nov. 2026 | `00035013/8428859` |
-| Programação em Inteligência Artificial Generativa | SENAI | Aug. 2026 | `13526237837/15929003` |
-| Fluência – Fundamentos da Inteligência Artificial | SENAI São Paulo | Jun. 2026 | `00048599/8428859` |
-| Ética na Inteligência Artificial | SENAI São Paulo | Jun. 2026 | `00042136/8428859` |
-| Informática Básica | Prefeitura de Santana de Parnaíba | Dec. 2025 | — |
-| Excel Básico | SENAI São Paulo | Oct. 2026 | `00035433/8428859` |
-| Competência Transversal – Finanças Pessoais | SENAI | Nov. 2026 | `00034817/8428859` |
-| Desvendando Data Centers | SENAI São Paulo | Jul. 2026 | `00048624/8428859` |
-| Por Dentro da Segurança Cibernética | SENAI São Paulo | Oct. 2026 | `00038560/8428859` |
-| Privacidade e Proteção de Dados (LGPD) | SENAI São Paulo | Jul. 2026 | `00035549/8428859` |
-| Comportamento Empreendedor | SENAI São Paulo | Nov. 2026 | `00040024/8428859` |
-| Competência Transversal – Lógica de Programação | SENAI | Nov. 2026 | `00035915/8428859` |
+- Intermediate Python Development — SENAI SP.
+- Python Programming — SENAI SP.
+- Generative AI Programming — SENAI.
+- AI Fundamentals and Ethics — SENAI.
+- Power BI — SENAI SP.
+- Basic Excel — SENAI SP.
+- Personal Finance — SENAI.
+- Blockchain and Data Centers — SENAI.
+- Cybersecurity and Data Privacy (LGPD) — SENAI.
+- Basic Computer Skills — Santana de Parnaíba City Hall.
 
-</details>
+## Galvão Labs
 
-## Tools
+**[Galvão Labs](https://github.com/GalvaoLabs)** is an organization I created to bring together experiments, projects, and independent technology initiatives.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,github,git&perline=4" alt="Python, VS Code, GitHub, and Git"/>
-</div>
+Its initial direction is to operate as an independent technology studio, exploring software development, artificial intelligence, and digital products. The goal is to grow from projects and prototypes into useful, consistent products of its own.
 
-<br>
+- [GitHub — Galvão Labs](https://github.com/GalvaoLabs)
+- [Instagram — @galvaolabs](https://www.instagram.com/galvaolabs)
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MiguelHGalvao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&cache_seconds=1800" alt="GitHub statistics"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHGalvao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&cache_seconds=1800" alt="Most used languages"/>
-</div>
+## Goals
 
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=MiguelHGalvao&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak"/>
-</div>
+I want to build a path that connects technical knowledge with business thinking. I'm interested in developing digital products, understanding how organizations and markets work, and exploring how technology can improve processes and support decisions.
 
----
+I value continuous learning, experimentation, and turning problems into practical projects.
 
-## Mindset
+## Contact
 
-```python
-idea = "something I want to build"
-
-while learning:
-    study()
-    experiment(idea)
-    observe_results()
-    improve()
-```
-
-> “We can only see a short distance ahead, but we can see plenty there that needs to be done.” — Alan Turing
+- **Portfolio:** [miguelhgalvao.github.io/portfolio](https://miguelhgalvao.github.io/portfolio/)
+- **LinkedIn:** [linkedin.com/in/miguelhenriquegalvao](https://www.linkedin.com/in/miguelhenriquegalvao/)
+- **GitHub:** [@MiguelHGalvao](https://github.com/MiguelHGalvao)
+- **Galvão Labs:** [@GalvaoLabs](https://github.com/GalvaoLabs)
 
 ---
 
 <div align="center">
-  <sub>© Miguel Henrique</sub>
+  <sub>Building, learning, and improving — one project at a time.</sub>
 </div>
